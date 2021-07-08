@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061336225025",
+    "firebase_url": "https://fastcampus-tinder-9a1b3-default-rtdb.firebaseio.com",
+    "project_id": "fastcampus-tinder-9a1b3",
+    "storage_bucket": "fastcampus-tinder-9a1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061336225025:android:1305c9b2c9b580590db700",
+        "android_client_info": {
+          "package_name": "com.example.mybarchartpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061336225025-c7a3eaknuu81tb1jiadmin0jj47iug3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSRNYQdLzjjBiGZCjoG7RNtYNl4Pqr9gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061336225025-c7a3eaknuu81tb1jiadmin0jj47iug3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
