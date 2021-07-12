@@ -1,0 +1,7 @@
+1.  ListView의 개선판   - ViewHolder 포함
+2.  유연하다 LayoutManager
+    - Linear
+    - Glide
+    - StaggeredGrid
+
+import 할 때 androidx가 최신에 만들어진 버전!!
